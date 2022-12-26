@@ -1,1 +1,1 @@
-print("hello hello pakistan")
+print("hello  pakistan is ")
